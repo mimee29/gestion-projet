@@ -88,3 +88,4 @@ Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
 "# gestion_projet_techDuo" 
 "# gestion_projet_techDuo" 
 "# gestion-projet-tech-duo" 
+"# gestion-projet-techduo" 
