@@ -8,7 +8,7 @@ async function bootstrap() {
   app.useGlobalPipes(new ValidationPipe({transform: true}));
 
   const config = new DocumentBuilder()
-    .setTitle('TechDuo - API')
+    .setTitle('Gestion Projet - API')
     .setDescription('API pour gérer les utilisateurs, les projets et les tâches')
     .addBearerAuth()
     .setVersion('1.0')
